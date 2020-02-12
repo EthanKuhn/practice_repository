@@ -1,4 +1,3 @@
 # practice_repository
 for practice
-i want to make a conflict
-and this should be a conflict
+this is to practice merge conflicts. Hopefully we don't write on the same lines!!! That would be awful :(
