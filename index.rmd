@@ -1,0 +1,18 @@
+---
+title: "Our Markdown File"
+author: "Ethan"
+date: "2/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("analysis.r")
+```
+
+# This is our **FANTASTIC** webpage
+## It couldn't be better
+
+My coffee is `r coffee`. It cost `r price`.
+
+
